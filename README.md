@@ -20,7 +20,8 @@ Validate and correct data types
 # Dataset
 Source: Netflix Titles Dataset - Kaggle
 
-Dataset: Netflix Titles.csv
+Dataset:[netflix_titles.csv](https://github.com/user-attachments/files/19832693/netflix_titles.csv)
+
 
 # 📌 Tasks Performed
 ✅ Excel Power Query
@@ -62,3 +63,7 @@ Example: Show ID → show_id, Date Added → date_added
 - Converted `date_added` to date format DD-MM-YYYY.
 - Renamed columns: "Show ID" → "show_id", etc.
 - Set data types: `release_year` as Whole Number, `date_added` as date.
+
+# Cleaned and Preprocessed Dataset
+
+[Netflix Data Cleaned and Preprocessed Dataset.xlsx](https://github.com/user-attachments/files/19832690/Netflix.Data.Cleaned.and.Preprocessed.Dataset.xlsx)
