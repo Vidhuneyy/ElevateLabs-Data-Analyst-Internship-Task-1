@@ -64,6 +64,7 @@ Example: Show ID → show_id, Date Added → date_added
 - Renamed columns: "Show ID" → "show_id", etc.
 - Set data types: `release_year` as Whole Number, `date_added` as date.
 
-# Cleaned and Preprocessed Dataset
+# Output 
+Cleaned and Preprocessed Dataset
 
 [Netflix Data Cleaned and Preprocessed Dataset.xlsx](https://github.com/user-attachments/files/19832690/Netflix.Data.Cleaned.and.Preprocessed.Dataset.xlsx)
